@@ -4,9 +4,12 @@ En este trabajo se resume y se presenta las pautas o base que se tomara de imple
 
 Se utilizará React.js para la aplicación del Frotend aprovechando sus elementos de interacción para un diseño amigable, por otro lado, se utilizará Node.js en la ejecución del Backend por su forma sencilla de utilizar y las bibliotecas que nos aporta mucho al proyecto.
 
-Herramientas utilizadas
+Herramientas utilizadas:
 •	Notion
 •	Figma
 •	Visual Studio Code
 •	GitHub
 •	Node.js
+
+
+Link de planificación del proyecto: https://www.notion.so/751f31f90fcd41f58a81ccd1bd8cbc15?v=347f0014a4434c3792df68fc931eca20&pvs=4
