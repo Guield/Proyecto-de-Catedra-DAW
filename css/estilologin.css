@@ -1,0 +1,64 @@
+/* Estilo para el cuerpo de la página */
+body {
+    background-color: #04454D;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para el formulario */
+#form-login {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #fff;
+    background-color: #eb9322;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    align-items: center;
+}
+
+/* Estilo para los elementos del formulario */
+.div-form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color: #075e69;
+    border: 1px solid #ccc;
+    color: #fff;
+    border-radius: 5px;
+}
+
+/* Estilo para los botones */
+#content-btn {
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: rgb(10, 190, 190);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Estilo para los campos de texto con errores */
+input:invalid {
+    border: 2px solid #eb9322;
+}
